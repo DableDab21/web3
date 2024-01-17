@@ -15,7 +15,6 @@ body {
   
   /* Если вы хотите установить изображение в качестве фона */
   body {
-    background-image: url('background.jpg'); /* Замените 'background.jpg' на путь к вашему изображению */
     background-size: cover; /* Позволяет изображению заполнять весь экран */
     background-position: center; /* Центрирует изображение на экране */
     background-repeat: no-repeat; /* Запрещает повторение изображения */
